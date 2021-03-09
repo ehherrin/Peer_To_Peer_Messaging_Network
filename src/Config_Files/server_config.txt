@@ -1,0 +1,3 @@
+SERVER HOST NAME: totally_legal_video_and_audio_sharing_server
+ADDRESS: 127.0.0.1:63001
+
